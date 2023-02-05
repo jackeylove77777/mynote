@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.sangeng.dao.OrderDao">
+
+    <!--<resultMap id="orderMap" type="com.sangeng.pojo.Order">-->
+        <!--<id column="id" property="id"></id>-->
+        <!--<result column="createtime" property="createtime"></result>-->
+        <!--<result column="price" property="price"></result>-->
+        <!--<result column="remark" property="remark"></result>-->
+        <!--<result column="user_id" property="userId"></result>-->
+    <!--</resultMap>-->
+    <!--<resultMap id="orderMap" type="com.sangeng.pojo.Order" autoMapping="false" >-->
+        <!--<id column="id" property="id"></id>-->
+        <!--<result column="createtime" property="createtime"></result>-->
+        <!--<result column="price" property="price"></result>-->
+        <!--<result column="remark" property="remark"></result>-->
+        <!--<result column="user_id" property="userId"></result>-->
+    <!--</resultMap>-->
+
+    <resultMap id="baseOrderMap" type="com.sangeng.pojo.Order" autoMapping="false" >
+        <id column="id" property="id"></id>
+        <result column="createtime" property="createtime"></result>
+        <result column="price" property="price"></result>
+        <result column="remark" property="remark"></result>
+    </resultMap>
+
+    <resultMap id="orderMap" type="com.sangeng.pojo.Order" autoMapping="false" extends="baseOrderMap" >
+        <result column="user_id" property="userId"></result>
+    </resultMap>
+
+    <select id="findAll" resultMap="orderMap" >
+        SELECT id,createtime,price,remark,user_id  FROM ORDERS
+    </select>
+
+
+    <resultMap id="orderUserMap" type="com.sangeng.pojo.Order" extends="orderMap">
+        <result column="uid" property="user.id"></result>
+        <result column="username" property="user.username"></result>
+        <result column="age" property="user.age"></result>
+        <result column="address" property="user.address"></result>
+    </resultMap>
+    
+    
+    <resultMap id="orderUserMapUseAssociation" type="com.sangeng.pojo.Order" extends="orderMap">
+        <association property="user" javaType="com.sangeng.pojo.User">
+            <id column="uid" property="id"></id>
+            <result column="username" property="username"></result>
+            <result column="age" property="age"></result>
+            <result column="address" property="address"></result>
+        </association>
+    </resultMap>
+    
+    <!--<select id="findById" resultMap="orderUserMap" >-->
+    <select id="findById" resultMap="orderUserMapUseAssociation" >
+
+        SELECT
+            o.id,o.`createtime`,o.`price`,o.`remark`,o.`user_id`,u.`id` uid,u.`username`,u.`age`,u.`address`
+        FROM
+            orders o,USER u
+        WHERE
+            o.`user_id` = u.`id`
+            AND o.id = #{id}
+    </select>
+
+
+</mapper>

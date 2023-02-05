@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="admin_server" />
+      <module name="_02_SpringBoot_static" />
+      <module name="_03_SpringBoot_web" />
+      <module name="Test" />
+    </loaded-modules>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java" line="485" />
+    <bookmark url="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java" line="492" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ed2cf93-f5f1-4f71-94e7-09ac2185eef8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/_01_SpringBoot_QuickStart/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/_02_SpringBoot_static/target/" />
+    <ignored path="$PROJECT_DIR$/_03_SpringBoot_web/target/" />
+    <ignored path="$PROJECT_DIR$/spring_boot_admin/target/" />
+    <ignored path="$PROJECT_DIR$/admin_server/target/" />
+    <ignored path="$PROJECT_DIR$/_99_spring_source/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1082689683">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="3" />
+          <entry key="class" value="3" />
+          <entry key="css" value="1" />
+          <entry key="html" value="29" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="171" />
+          <entry key="js" value="9" />
+          <entry key="jsp" value="1" />
+          <entry key="kt" value="1" />
+          <entry key="pom" value="2" />
+          <entry key="properties" value="4" />
+          <entry key="xml" value="27" />
+          <entry key="xsd" value="1" />
+          <entry key="yml" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="29" />
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="JAVA" value="171" />
+          <entry key="JSP" value="1" />
+          <entry key="JavaScript" value="9" />
+          <entry key="Kotlin" value="1" />
+          <entry key="Properties" value="4" />
+          <entry key="UML" value="3" />
+          <entry key="XML" value="30" />
+          <entry key="YAML" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="html" value="1631" />
+          <entry key="java" value="6962" />
+          <entry key="js" value="12" />
+          <entry key="properties" value="31" />
+          <entry key="xml" value="894" />
+          <entry key="yml" value="2467" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1631" />
+          <entry key="JAVA" value="6962" />
+          <entry key="JavaScript" value="12" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Properties" value="31" />
+          <entry key="XML" value="894" />
+          <entry key="YAML" value="2467" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/application-test.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_server/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/src/com/sangeng/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/NullPointerException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="68" column="31" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="466" selection-start-line="466" selection-end-line="483" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/IndexOutOfBoundsException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="43" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin_server/src/main/java/com/sangeng/admin_server/AdminServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1725">
+              <caret line="69" column="56" selection-start-line="69" selection-start-column="50" selection-end-line="69" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Mybatis Mapper" />
+        <option value="AnnotationType" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mappingResources</find>
+      <find>Basic Table</find>
+      <find>Tables</find>
+      <find>Zero Configuration</find>
+      <find>sg</find>
+      <find>str</find>
+      <find>No data available in table</find>
+      <find>M</find>
+      <find>empty</find>
+      <find>table</find>
+      <find>dtInstance2</find>
+      <find>datatable1</find>
+      <find>min.js</find>
+      <find>Standard</find>
+      <find>CorsInterceptor</find>
+      <find>11</find>
+      <find>8</find>
+      <find>form</find>
+      <find>role</find>
+      <find>login</find>
+      <find>JWT_KEY</find>
+      <find>key</find>
+      <find>l</find>
+      <find>email</find>
+      <find>401</find>
+      <find>pa</find>
+      <find>Kitchen Sink</find>
+      <find>users</find>
+      <find>getBeanFactory</find>
+      <find>obtainFreshBeanFactory</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/domain/SystemUser.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/service/SystemUserService.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/service/impl/SystemUserServcieImpl.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/mapper/SystemUserMapper.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/controller/SystemUserController.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/mapper/SystemUserMapper.xml" />
+        <option value="$PROJECT_DIR$/_02_SpringBoot_static/src/main/resources/static/pages/login.html" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/new11/MyControllerAdvice.kt" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/new11/MyControllerAdvice.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/new11/loginInterceptor.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/new11/WebConfig.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/exception/MyControllerAdvice.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/resolver/ArgumentConfig.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/resolver/CurrentUserId.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/resolver/UserIdArgumentResolver.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/config/ArgumentResolverConfig.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/service/UserServcie.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/aspect/InvokeLog.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/aspect/MyAspect.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/aop/InvokeLog.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/aop/InvokeLogAspect.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/WebApplication.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/template/TemplateController.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/ThymeleafController.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/thymeleaf/ThymeleafController.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/config/LoginConfig.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/templates/table-standard.html" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/test/java/com/sangeng/WebTest.java" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/application-prod.yml" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring_boot_admin/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_boot_admin/src/test/java/com/sangeng/spring_boot_admin/SpringBootAdminApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring_boot_admin/src/main/java/com/sangeng/spring_boot_admin/SpringBootAdminApplication.java" />
+        <option value="$PROJECT_DIR$/spring_boot_admin/pom.xml" />
+        <option value="$PROJECT_DIR$/admin_server/pom.xml" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/pom.xml" />
+        <option value="$PROJECT_DIR$/admin_server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/application-test.yml" />
+        <option value="$PROJECT_DIR$/admin_server/src/main/java/com/sangeng/admin_server/AdminServerApplication.java" />
+        <option value="$PROJECT_DIR$/_99_spring_source/pom.xml" />
+        <option value="$PROJECT_DIR$/_99_spring_source/src/main/java/com/sangeng/SpringDemo.java" />
+        <option value="$PROJECT_DIR$/_99_spring_source/src/main/java/com/sangeng/domian/User.java" />
+        <option value="$PROJECT_DIR$/_99_spring_source/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/_99_spring_source/src/main/java/com/sangeng/spring/domian/User.java" />
+        <option value="$PROJECT_DIR$/Test/src/com/sangeng/Demo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Develop/apache-maven-3.5.2" />
+        <option name="outputLevel" value="DEBUG" />
+        <option name="userSettingsFile" value="D:\Develop\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="_03_SpringBoot_web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="_03_SpringBoot_web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="_03_SpringBoot_web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="admin_server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="admin_server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="960" />
+    <option name="height" value="515" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Bidirectional TextInternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI (Contexts and Dependency Injection)</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flowJava</id>
+          </State>
+          <State>
+            <id>Data flowJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>EncapsulationJava</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>FinalizationJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam</id>
+          </State>
+          <State>
+            <id>JSON and JSON5</id>
+          </State>
+          <State>
+            <id>JSP</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Method metricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsKotlin</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Reactor</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CloudSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SanGeng_SpringBoot_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_01_SpringBoot_QuickStart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SanGeng_SpringBoot_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SanGeng_SpringBoot_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SanGeng_SpringBoot_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="IndexOutOfBoundsException&#9;PSI&#9;JAVA://java.lang.IndexOutOfBoundsException&#10;NullPo&#9;PSI&#9;JAVA://java.lang.NullPointerException&#10;Com&#9;FILE&#9;jar://D:/Develop/maven_repository2/org/springframework/spring-context/5.3.7/spring-context-5.3.7-sources.jar!/org/springframework/stereotype/Component.java&#10;HandlerExceptionResolver&#9;PSI&#9;JAVA://org.springframework.web.servlet.HandlerExceptionResolver&#10;find in path&#9;ACTION&#9;FindInPath&#10;CrossOrigin&#9;PSI&#9;JAVA://org.springframework.web.bind.annotation.CrossOrigin&#10;CorsIn&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.AbstractHandlerMapping.CorsInterceptor&#10;CorsI&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.AbstractHandlerMapping.CorsInterceptor&#10;CorsRegistry&#9;PSI&#9;JAVA://org.springframework.web.servlet.config.annotation.CorsRegistry&#10;CorsHa&#9;PSI&#9;JAVA://org.springframework.web.servlet.handler.AbstractHandlerMapping#getCorsHandlerExecutionChain&#10;CorsFilter&#9;PSI&#9;JAVA://org.springframework.web.filter.CorsFilter&#10;PathV&#9;FILE&#9;jar://D:/Develop/maven_repository2/org/springframework/spring-web/5.3.7/spring-web-5.3.7-sources.jar!/org/springframework/web/bind/annotation/PathVariable.java&#10;Request&#9;FILE&#9;jar://D:/Develop/maven_repository2/org/springframework/spring-web/5.3.7/spring-web-5.3.7-sources.jar!/org/springframework/web/bind/annotation/RequestBody.java&#10;Requestp&#9;PSI&#9;JAVA://org.springframework.web.bind.annotation.RequestParam&#10;Pa&#9;FILE&#9;jar://D:/Develop/maven_repository2/org/springframework/spring-web/5.3.7/spring-web-5.3.7-sources.jar!/org/springframework/web/bind/annotation/PathVariable.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1627813329169" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng" />
+    <property name="last_opened_file_path" value="D:/Develop/2021ideaprojects/Code_Comment" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.13876455" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sangeng" />
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\root\IdeaProjects\SanGengProjects\SanGeng_SpringBoot_Project\_99_spring_source\target\classes" />
+      <recent name="C:\Users\root\IdeaProjects\SanGengProjects\SanGeng_SpringBoot_Project\_03_SpringBoot_web\src\main\resources" />
+      <recent name="C:\Users\root\IdeaProjects\SanGengProjects\SanGeng_SpringBoot_Project\_03_SpringBoot_web\src\main\resources\templates" />
+      <recent name="C:\Users\root\IdeaProjects\SanGengProjects\SanGeng_SpringBoot_Project\_03_SpringBoot_web\src\main\resources\static" />
+      <recent name="C:\Users\root\IdeaProjects\SanGengProjects\SanGeng_SpringBoot_Project\_02_SpringBoot_static\src\main\resources\static\pages" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.sangeng.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\root\IdeaProjects\SanGengProjects\SanGeng_SpringBoot_Project\_02_SpringBoot_static\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebApplication">
+    <configuration name="SpringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sangeng.spring.SpringDemo" />
+      <module name="_99_spring_source" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTest.testRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="_03_SpringBoot_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sangeng" />
+      <option name="MAIN_CLASS_NAME" value="com.sangeng.WebTest" />
+      <option name="METHOD_NAME" value="testRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTest.testRedisGetValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="_03_SpringBoot_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sangeng" />
+      <option name="MAIN_CLASS_NAME" value="com.sangeng.WebTest" />
+      <option name="METHOD_NAME" value="testRedisGetValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sangeng.admin_server.AdminServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sangeng.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_boot_admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sangeng.spring_boot_admin.SpringBootAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="_02_SpringBoot_static" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.thymeleaf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sangeng.StaticApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="_03_SpringBoot_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sangeng.thymeleaf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sangeng.WebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.SpringBootAdminApplication" />
+      <item itemvalue="Spring Boot.AdminServerApplication" />
+      <item itemvalue="JUnit.WebTest.testRedis" />
+      <item itemvalue="JUnit.WebTest.testRedisGetValue" />
+      <item itemvalue="Spring Boot.StaticApplication" />
+      <item itemvalue="Spring Boot.WebApplication" />
+      <item itemvalue="Application.SpringDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WebApplication" />
+        <item itemvalue="Application.SpringDemo" />
+        <item itemvalue="JUnit.WebTest.testRedisGetValue" />
+        <item itemvalue="JUnit.WebTest.testRedis" />
+        <item itemvalue="Spring Boot.StaticApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ed2cf93-f5f1-4f71-94e7-09ac2185eef8" name="Default Changelist" comment="" />
+      <created>1624277170051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624277170051</updated>
+      <workItem from="1624277171239" duration="162000" />
+      <workItem from="1624537347953" duration="1292000" />
+      <workItem from="1624539686770" duration="2013000" />
+      <workItem from="1624599149019" duration="148000" />
+      <workItem from="1624666934445" duration="129000" />
+      <workItem from="1624667799442" duration="825000" />
+      <workItem from="1624782562438" duration="270000" />
+      <workItem from="1624783022908" duration="5297000" />
+      <workItem from="1624799188187" duration="2037000" />
+      <workItem from="1624888689718" duration="22642000" />
+      <workItem from="1625583781897" duration="961000" />
+      <workItem from="1625585893128" duration="6042000" />
+      <workItem from="1625628910360" duration="14798000" />
+      <workItem from="1625753948066" duration="37615000" />
+      <workItem from="1626434988231" duration="2591000" />
+      <workItem from="1626442185185" duration="46121000" />
+      <workItem from="1627355531949" duration="9298000" />
+      <workItem from="1627472922255" duration="3893000" />
+      <workItem from="1627480136662" duration="497000" />
+      <workItem from="1627480656475" duration="594000" />
+      <workItem from="1627481270546" duration="2847000" />
+      <workItem from="1627517292278" duration="1967000" />
+      <workItem from="1627519282552" duration="322000" />
+      <workItem from="1627529083111" duration="826000" />
+      <workItem from="1627529936789" duration="301000" />
+      <workItem from="1627530268629" duration="2113000" />
+      <workItem from="1627546051255" duration="4217000" />
+      <workItem from="1627607211520" duration="6744000" />
+      <workItem from="1627802235870" duration="6368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ApplicationTest_testJunit - 2021.07.07 at 12h 10m 43s.xml">
+      <configuration name="ApplicationTest.testJunit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationTest_testJunit - 2021.07.07 at 12h 13m 34s.xml">
+      <configuration name="ApplicationTest.testJunit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationTest_testJunit - 2021.07.07 at 12h 15m 13s.xml">
+      <configuration name="ApplicationTest.testJunit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationTest - 2021.07.07 at 15h 17m 12s.xml">
+      <configuration name="ApplicationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationTest - 2021.07.07 at 15h 17m 49s.xml">
+      <configuration name="ApplicationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationTest_testJunit - 2021.07.07 at 15h 21m 40s.xml">
+      <configuration name="ApplicationTest.testJunit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationTest_testMapper - 2021.07.07 at 17h 03m 13s.xml">
+      <configuration name="ApplicationTest.testMapper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebTest_testRedis - 2021.07.30 at 01h 03m 37s.xml">
+      <configuration name="WebTest.testRedis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebTest_testRedis - 2021.07.30 at 01h 04m 37s.xml">
+      <configuration name="WebTest.testRedis" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebTest_testRedisGetValue - 2021.07.30 at 01h 05m 15s.xml">
+      <configuration name="WebTest.testRedisGetValue" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="183505000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.805293" visible="true" weight="0.30784708" />
+      <window_info id="Structure" order="1" sideWeight="0.19544592" side_tool="true" weight="0.308311" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39089692" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36916548" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Problems" order="14" />
+      <window_info active="true" anchor="right" id="SourceRemark" side_tool="true" visible="true" weight="0.35412475" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3809524" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="11" side_tool="true" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="_01_SpringBoot_QuickStart" />
+    <module name="_99_spring_source" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_01_SpringBoot_QuickStart/src/main/java/com/sangeng/controller/HelloController.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/new11/loginInterceptor.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/new11/loginInterceptor.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/controller/TestController.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/resolver/UserIdArgumentResolver.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/resolver/UserIdArgumentResolver.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/resolver/ArgumentConfig.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/resolver/UserIdArgumentResolver.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/resolver/UserIdArgumentResolver.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/_99_spring_source/src/main/java/com/sangeng/spring/SpringDemo.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java</url>
+          <line>549</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>context.getBean(UserServcie.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parameter.hasParameterAnnotation(CurrentUserId.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>webRequest.getHeader(&quot;token&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parameter.getParameterName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>student</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SpringApplication.run()</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.boot.SpringApplication</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/aspect/MyAspect.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.7/spring-context-5.3.7-sources.jar!/org/springframework/context/annotation/EnableAspectJAutoProxy.java" />
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/resolver/UserIdArgumentResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/aop/InvokeLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="7" selection-start-line="7" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6-sources.jar!/org/aspectj/lang/Signature.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.6/aspectjweaver-1.9.6-sources.jar!/org/aspectj/lang/reflect/MethodSignature.java" />
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/template/TemplateController.java" />
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="12" selection-start-line="12" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/aop/InvokeLogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" selection-start-line="10" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/static/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/config/LoginConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/thymeleaf/ThymeleafController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/templates/table-standard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="812" selection-start-line="812" selection-end-line="817" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_SpringBoot_static/src/main/resources/static/pages/lock.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_SpringBoot_static/src/main/resources/static/pages/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.5.0/spring-boot-2.5.0-sources.jar!/org/springframework/boot/context/logging/LoggingApplicationListener.java" />
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/java/com/sangeng/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_SpringBoot_static/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_boot_admin/src/test/java/com/sangeng/spring_boot_admin/SpringBootAdminApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/spring_boot_admin/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/spring_boot_admin/src/main/java/com/sangeng/spring_boot_admin/SpringBootAdminApplication.java" />
+    <entry file="file://$PROJECT_DIR$/spring_boot_admin/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/test/java/com/sangeng/WebTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_99_spring_source/target/classes/com/sangeng/SpringDemo.class" />
+    <entry file="file://$PROJECT_DIR$/_99_spring_source/target/classes/com/sangeng/domian/User.class" />
+    <entry file="file://$PROJECT_DIR$/_99_spring_source/target/classes/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/_99_spring_source/_99_spring_source.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_99_spring_source/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_99_spring_source/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_99_spring_source/src/main/java/com/sangeng/spring/SpringDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.java" />
+    <entry file="jar://D:/d/jdk8/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10975">
+          <caret line="502" column="36" selection-start-line="502" selection-start-column="36" selection-end-line="502" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_99_spring_source/src/main/java/com/sangeng/spring/domian/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_01_SpringBoot_QuickStart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="61" selection-start-line="61" selection-end-line="69" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_SpringBoot_static/src/main/resources/static/pages/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_02_SpringBoot_static/src/main/resources/static/pages/recover.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.5.0/spring-boot-2.5.0-sources.jar!/org/springframework/boot/SpringApplication.java" />
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/application-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_server/src/main/java/com/sangeng/admin_server/AdminServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="69" column="56" selection-start-line="69" selection-start-column="50" selection-end-line="69" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_03_SpringBoot_web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_server/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/src/com/sangeng/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/NullPointerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="68" column="31" selection-start-line="68" selection-start-column="11" selection-end-line="68" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="466" selection-start-line="466" selection-end-line="483" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/IndexOutOfBoundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

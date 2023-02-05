@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.sangeng.dao.UserDao">
+
+    <cache></cache>
+
+    <select id="findAll" resultMap="userRoleBySelectMap">
+        select id,username,age,address from user
+    </select>
+    <resultMap id="userRoleBySelectMap" type="com.sangeng.pojo.User" extends="userMap">
+        <collection property="roles" ofType="com.sangeng.pojo.Role"
+                    select="com.sangeng.dao.RoleDao.findRoleByUserId" column="id">
+        </collection>
+    </resultMap>
+    <resultMap id="userRoleMap" type="com.sangeng.pojo.User" extends="userMap">
+        <collection property="roles" ofType="com.sangeng.pojo.Role">
+            <id property="id" column="rid"></id>
+            <result property="name" column="name"></result>
+            <result property="desc" column="desc"></result>
+        </collection>
+    </resultMap>
+
+
+
+    <!--<select id="findAll" resultMap="userRoleBySelectMap">-->
+        <!--select id,username,age,address from user-->
+    <!--</select>-->
+
+
+    <!--定义User基本属性映射规则-->
+    <resultMap id="userMap" type="com.sangeng.pojo.User">
+        <id column="id" property="id"></id>
+        <result column="username" property="username"></result>
+        <result column="age" property="age"></result>
+        <result column="address" property="address"></result>
+    </resultMap>
+
+    <!--<resultMap id="userRoleMap" type="com.sangeng.pojo.User" extends="userMap">-->
+        <!--<collection property="roles" ofType="com.sangeng.pojo.Role">-->
+            <!--<id property="id" column="rid"></id>-->
+            <!--<result property="name" column="name"></result>-->
+            <!--<result property="desc" column="desc"></result>-->
+        <!--</collection>-->
+    <!--</resultMap>-->
+
+
+
+
+
+    <select id="findById" resultMap="userRoleMap">
+        SELECT
+            u.`id`,u.`username`,u.`age`,u.`address`,r.id rid,r.name,r.desc
+        FROM
+            USER u,user_role ur,role r
+        WHERE
+            u.id=ur.user_id AND ur.role_id = r.id
+            AND u.id = #{id}
+    </select>
+
+
+    <!--
+         select属性：指定用哪个查询来查询当前属性的数据 写法：包名.接口名.方法名
+         column属性：设置当前结果集中哪列的数据作为select属性指定的查询方法需要参数
+     -->
+    <resultMap id="userRoleMapBySelect" type="com.sangeng.pojo.User" extends="userMap">
+        <collection property="roles"
+                    ofType="com.sangeng.pojo.Role"
+                    select="com.sangeng.dao.RoleDao.findRoleByUserId"
+                    column="id">
+        </collection>
+    </resultMap>
+
+
+    <!--根据用户名查询用户，并且要求把该用户所具有的角色信息也查询出来-->
+    <select id="findByUsername" resultMap="userRoleMapBySelect">
+        select id,username,age,address from user where username = #{username}
+    </select>
+
+
+</mapper>

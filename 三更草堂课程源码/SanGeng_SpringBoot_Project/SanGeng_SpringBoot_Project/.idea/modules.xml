@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01_SpringBoot_QuickStart/_01_SpringBoot_QuickStart.iml" filepath="$PROJECT_DIR$/_01_SpringBoot_QuickStart/_01_SpringBoot_QuickStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02_SpringBoot_static/_02_SpringBoot_static.iml" filepath="$PROJECT_DIR$/_02_SpringBoot_static/_02_SpringBoot_static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_SpringBoot_web/_03_SpringBoot_web.iml" filepath="$PROJECT_DIR$/_03_SpringBoot_web/_03_SpringBoot_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_99_spring_source/_99_spring_source.iml" filepath="$PROJECT_DIR$/_99_spring_source/_99_spring_source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin_server/admin_server.iml" filepath="$PROJECT_DIR$/admin_server/admin_server.iml" />
+    </modules>
+  </component>
+</project>

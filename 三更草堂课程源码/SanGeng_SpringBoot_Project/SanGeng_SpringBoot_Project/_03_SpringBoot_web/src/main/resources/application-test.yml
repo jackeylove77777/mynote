@@ -1,0 +1,21 @@
+server:
+  port: 81
+debug: true
+logging:
+  level:
+    com.sangeng: debug
+management:
+  endpoints:
+    enabled-by-default: true # 启用所有端点
+
+    web:
+      exposure:
+        include: "*" #暴露所有端点
+  endpoint:
+    health:
+      show-details: always
+spring:
+  boot:
+    admin:
+      client:
+        url: http://localhost:8888

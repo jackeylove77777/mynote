@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.itheima.dao.UserDao">
+<!--
+    id  username  password  birthday        id  ordertime    total     uid     oid
+    1  lucy      123       2018-12-12       1  2018-12-12    3000       1         1
+    1  lucy      123       2018-12-12       2  2018-12-12    4000       1         2
+    2  haohao    123       2019-12-12       3  2018-12-12    5000       2         3-->
+    <resultMap id="userMap" type="com.itheima.domain.User">
+        <id property="id" column="uid"></id>
+        <result property="username" column="username"></result>
+        <result property="password" column="password"></result>
+        <result property="birthday" column="birthday"></result>
+        <collection property="orderList" ofType="com.itheima.domain.Order">
+            <id property="id" column="oid"></id>
+            <result property="ordertime" column="ordertime"></result>
+            <result property="total" column="total"></result>
+        </collection>
+    </resultMap>
+
+    <select id="selectAll" resultMap="userMap">
+        SELECT *,o.id oid FROM USER u LEFT JOIN orders o ON u.`id` = o.`uid`
+    </select>
+</mapper>
